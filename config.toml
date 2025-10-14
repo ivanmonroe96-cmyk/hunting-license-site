@@ -1,0 +1,61 @@
+baseURL = "https://jagdscheineu.com/"
+languageCode = "en"
+title = "Buy Hunting License Online"
+theme = "ananke"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+enableRobotsTXT = true
+
+[menu]
+  [[menu.main]]
+    identifier = "apply"
+    name = "Apply"
+    url = "/apply/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
+
+[languages]
+[languages.en]
+  weight = 1
+  languageName = "English"
+  title = "Buy Hunting Permit"
+[languages.de]
+  weight = 2
+  languageName = "Deutsch"
+  title = "Jagdschein Kaufen"
+[languages.nl]
+  weight = 3
+  languageName = "Dutch"
+  title = "Jachtvergunning Kopen"
+[languages.pl]
+  weight = 4
+  languageName = "Polski"
+  title = "Licencja Łowiecka"
+[languages.fr]
+  weight = 5
+  languageName = "Français"
+  title = "Acheter un permis de chasse"
+[languages.it]
+  weight = 6
+  languageName = "Italiano"
+  title = "Acquista licenza di caccia"
+[languages.es]
+  weight = 7
+  languageName = "Español"
+  title = "Comprar licencia de caza"
+
+[params]
+  description = "We help EU citizens get hunting licenses without writing exams across Europe."
+
