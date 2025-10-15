@@ -1,0 +1,7 @@
+/* Fallback CSS if Tailwind build isn't run. Keeps site readable. */
+:root{ --brand:#0b3d91; --muted:#6b7280; }
+body{ font-family: Arial, Helvetica, sans-serif; color:#111827; margin:0; padding:0; }
+.container{ max-width:1100px; margin:0 auto; padding:1rem; }
+.header-hero{ background:#f5f8ff; padding:2rem 0; }
+.btn-primary{ background:var(--brand); color:white; padding:0.5rem 1rem; border-radius:6px; display:inline-block; }
+.map-embed{ margin:1rem 0; }

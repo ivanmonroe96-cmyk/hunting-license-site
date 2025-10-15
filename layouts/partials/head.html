@@ -6,3 +6,44 @@
 {{ with .Params.schema }}
 <script type="application/ld+json">{{ . | safeJS }}</script>
 {{ end }}
+
+{{/* Site-level LocalBusiness + Service JSON-LD for GEO/AEO */}}
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@graph": [
+		{
+			"@type": "LocalBusiness",
+			"name": "Get Hunting License Online",
+			"image": "{{ printf "%s%s" .Site.BaseURL "images/logo.png" }}",
+			"@id": "{{ .Site.BaseURL }}#localbusiness",
+			"url": "{{ .Site.BaseURL }}",
+			"telephone": "+49-30-0000000",
+			"address": {
+				"@type": "PostalAddress",
+				"streetAddress": "Sample Street 1",
+				"addressLocality": "Berlin",
+				"postalCode": "10115",
+				"addressCountry": "DE"
+			},
+			"geo": {
+				"@type": "GeoCoordinates",
+				"latitude": 52.5200,
+				"longitude": 13.4050
+			},
+			"openingHoursSpecification": [
+				{
+					"@type": "OpeningHoursSpecification",
+					"dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+					"opens": "09:00",
+					"closes": "17:00"
+				}
+			],
+			"sameAs": ["https://www.facebook.com/","https://twitter.com/"]
+		}
+	]
+}
+</script>
+
+{{/* Stylesheet link (Tailwind built output or fallback static css) */}}
+<link rel="stylesheet" href="{{ "css/styles.css" | relURL }}" />

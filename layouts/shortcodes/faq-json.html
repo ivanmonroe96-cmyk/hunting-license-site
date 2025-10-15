@@ -1,0 +1,33 @@
+{{/* Shortcode to inject FAQPage JSON-LD. Expects list of questions in the page or statically generated for main hub. */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get a hunting license online in Germany?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No — you must pass a legally required exam, but we can handle registration and paperwork online."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it legal to buy a hunting license online?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No — purchasing a license without fulfilling legal requirements is illegal. Our service is a legal facilitation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does the process take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typical timeframe: 2–6 months depending on the region and exam availability."
+      }
+    }
+  ]
+}
+</script>

@@ -9,6 +9,12 @@ languages: ["en"]
 
 {{< contact-form >}}
 
+## Our Office (Berlin)
+
+{{< map-berlin >}}
+
+**Data protection / GDPR:** By submitting this form you consent to us processing your personal data to handle your inquiry. See our [Privacy Policy](/en/legal/privacy/).
+
 **Email Templates:**
 
 - **Automatic Customer Confirmation (sendImmediately)**

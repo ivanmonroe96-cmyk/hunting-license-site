@@ -1,33 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Legals on Hunting License Europe</title>
-    <link>http://localhost:1313/legal/</link>
-    <description>Recent content in Legals on Hunting License Europe</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/legal/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Impressum</title>
-      <link>http://localhost:1313/legal/impressum/</link>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/legal/impressum/</guid>
-      <description>&lt;h1 id=&#34;impressum&#34;&gt;Impressum&lt;/h1&gt;&#xA;&lt;p&gt;Required company and legal contact information for EU compliance.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Privacy Policy</title>
-      <link>http://localhost:1313/legal/privacy/</link>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/legal/privacy/</guid>
-      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;p&gt;Our commitment to GDPR and your data protection rights.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Terms of Service</title>
-      <link>http://localhost:1313/legal/terms/</link>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/legal/terms/</guid>
-      <description>&lt;h1 id=&#34;terms-of-service&#34;&gt;Terms of Service&lt;/h1&gt;&#xA;&lt;p&gt;Please read our terms and conditions before using our service.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Legals on Hunting License Europe</title><link>https://jagdschein-kaufen.com/legal/</link><description>Recent content in Legals on Hunting License Europe</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jagdschein-kaufen.com/legal/index.xml" rel="self" type="application/rss+xml"/><item><title>Privacy Policy</title><link>https://jagdschein-kaufen.com/legal/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jagdschein-kaufen.com/legal/privacy-policy/</guid><description>&lt;p&gt;This is a placeholder privacy policy. Replace with a full GDPR-compliant privacy notice including data controller, contact details, processing purposes, legal bases, data subject rights, and cookie usage.&lt;/p&gt;</description></item><item><title>Terms of Service</title><link>https://jagdschein-kaufen.com/legal/terms-of-service/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jagdschein-kaufen.com/legal/terms-of-service/</guid><description>&lt;p&gt;Placeholder Terms of Service. Add legally reviewed terms covering scope of service, disclaimers, payment, refunds, and applicable law.&lt;/p&gt;</description></item><item><title>Cookies</title><link>https://jagdschein-kaufen.com/legal/cookies/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jagdschein-kaufen.com/legal/cookies/</guid><description>&lt;p&gt;Placeholder cookie information. List cookies used, purpose, and retention; implement a consent manager before collecting analytics or marketing cookies.&lt;/p&gt;</description></item><item><title>Impressum</title><link>https://jagdschein-kaufen.com/legal/impressum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jagdschein-kaufen.com/legal/impressum/</guid><description>&lt;p&gt;This page is a placeholder for the German Impressum. Include full business details (legal form, address, registration, tax ID), contact person, and supervisory authority as required by German law.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="languages-en"&gt;title: &amp;ldquo;Legal Notice / Imprint&amp;rdquo;
+description: &amp;ldquo;Company information and legal contact details (Impressum).&amp;rdquo;
+slug: &amp;ldquo;impressum&amp;rdquo;
+date: 2025-10-15
+lastmod: 2025-10-15
+languages: [&amp;ldquo;en&amp;rdquo;]&lt;/h2&gt;
+&lt;h1 id="legal-notice--imprint"&gt;Legal Notice / Imprint&lt;/h1&gt;
+&lt;p&gt;This page contains the company&amp;rsquo;s legal contact information required for EU compliance (Impressum). Replace this placeholder with your legal entity name, address, responsible person, and contact details.&lt;/p&gt;</description></item><item><title>Privacy Policy</title><link>https://jagdschein-kaufen.com/legal/privacy/</link><pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate><guid>https://jagdschein-kaufen.com/legal/privacy/</guid><description>&lt;h1 id="privacy-policy"&gt;Privacy Policy&lt;/h1&gt;
+&lt;p&gt;Our commitment to GDPR and your data protection rights.&lt;/p&gt;
+&lt;h2 id="data-controller"&gt;Data Controller&lt;/h2&gt;
+&lt;p&gt;Get Hunting License Online
+Sample Street 1, 10115 Berlin, Germany
+Email: &lt;a href="mailto:info@jagdschein-kaufen.com"&gt;info@jagdschein-kaufen.com&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="what-we-collect"&gt;What we collect&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Name, email, address, documents you upload&lt;/li&gt;
+&lt;li&gt;Usage data for analytics if enabled&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="why-we-process"&gt;Why we process&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;To register you with partner schools and process your application&lt;/li&gt;
+&lt;li&gt;Legal obligation and consent&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="your-rights"&gt;Your rights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Right to access, rectify, erase, restrict processing, data portability&lt;/li&gt;
+&lt;li&gt;Contact: &lt;a href="mailto:info@jagdschein-kaufen.com"&gt;info@jagdschein-kaufen.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="data-retention"&gt;Data retention&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We retain application data for up to 5 years for legal compliance unless you request deletion.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="cookies--tracking"&gt;Cookies &amp;amp; Tracking&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We only use necessary cookies by default. Optional analytics cookies require consent.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For full legal text, replace placeholders with your legal counsel&amp;rsquo;s language.&lt;/p&gt;</description></item><item><title>Terms of Service</title><link>https://jagdschein-kaufen.com/legal/terms/</link><pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate><guid>https://jagdschein-kaufen.com/legal/terms/</guid><description>&lt;h1 id="terms-of-service"&gt;Terms of Service&lt;/h1&gt;
+&lt;p&gt;Please read our terms and conditions before using our service.&lt;/p&gt;
+&lt;h2 id="scope"&gt;Scope&lt;/h2&gt;
+&lt;p&gt;These terms govern the use of our website and our facilitation services for hunting license registration. By using our site you agree to these terms.&lt;/p&gt;
+&lt;h2 id="services"&gt;Services&lt;/h2&gt;
+&lt;p&gt;We provide document review, registration with partner schools, and exam preparation materials. We do not issue licenses ourselves; licensing is performed by authorities.&lt;/p&gt;
+&lt;h2 id="liability"&gt;Liability&lt;/h2&gt;
+&lt;p&gt;Our liability is limited to the extent permitted by law. We aim to provide accurate guidance but are not responsible for third-party decisions.&lt;/p&gt;</description></item></channel></rss>

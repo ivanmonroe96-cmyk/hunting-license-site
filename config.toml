@@ -22,19 +22,19 @@ defaultContentLanguageInSubdir = true
 
   [[menu.main]]
     identifier = "apply"
-    name = "Anmelden"
+    name = "Apply"
     url = "/apply/"
     weight = 1
 
   [[menu.main]]
     identifier = "about"
-    name = "Über uns"
+    name = "About"
     url = "/about/"
     weight = 2
 
   [[menu.main]]
     identifier = "contact"
-    name = "Kontakt"
+    name = "Contact"
     url = "/contact/"
     weight = 3
 
@@ -57,9 +57,9 @@ defaultContentLanguageInSubdir = true
 # ⚙️ GLOBAL SITE PARAMETERS
 # ───────────────────────────────
 [params]
-  author = "Jagdschein Kaufen Team"
-  description = "Wir helfen EU-Bürgern, legal und stressfrei einen Jagdschein zu erhalten."
-  keywords = ["Jagdschein kaufen ohne Prüfung", "Jagdprüfung", "Hunting License Europe", "Jagdschein Österreich", "Jagdschein Polen"]
+  author = "Hunting License Team"
+  description = "We help EU citizens obtain hunting licenses legally and with minimal hassle."
+  keywords = ["hunting license", "hunting license Europe", "hunting exam", "hunting license Austria", "hunting license Poland"]
   dateFormat = "02. January 2006"
   showLanguageSelector = true
   showShareButtons = true
