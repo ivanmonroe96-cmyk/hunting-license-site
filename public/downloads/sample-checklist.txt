@@ -1,0 +1,7 @@
+Sample pre-exam checklist
+
+- Bring ID
+- Bring proof of residency
+- Bring completed application form
+
+This plain-text sample sits here as a placeholder. Replace with real PDFs in `static/downloads/`.

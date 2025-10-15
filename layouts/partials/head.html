@@ -47,3 +47,8 @@
 
 {{/* Stylesheet link (Tailwind built output or fallback static css) */}}
 <link rel="stylesheet" href="{{ "css/styles.css" | relURL }}" />
+
+{{/* Development fallback: load Tailwind from CDN when not in production so utility classes work without building assets locally. In production you should build CSS via PostCSS/Tailwind and include the built asset. */}}
+{{ if not hugo.IsProduction }}
+	<script src="https://cdn.tailwindcss.com"></script>
+{{ end }}

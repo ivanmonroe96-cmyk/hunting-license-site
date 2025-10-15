@@ -5,6 +5,24 @@ slug: "apply"
 date: 2025-10-15
 lastmod: 2025-10-15
 languages: ["en"]
+schema:
+  "@context": "https://schema.org"
+  "@type": "HowTo"
+  name: "How to apply for a hunting license"
+  description: "High-level steps to apply for a hunting license with our service."
+  step:
+    - "@type": "HowToStep"
+      name: "Submit inquiry and documents"
+      text: "Send your initial inquiry and attach required documents."
+    - "@type": "HowToStep"
+      name: "Document review"
+      text: "We review and request any missing items."
+    - "@type": "HowToStep"
+      name: "Registration with school"
+      text: "We register you with a certified school for training and exam."
+    - "@type": "HowToStep"
+      name: "Exam booking & support"
+      text: "We help book the exam and provide administrative support."
 ---
 
 # Apply for Your Hunting License
