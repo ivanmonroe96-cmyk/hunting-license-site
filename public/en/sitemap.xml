@@ -2,170 +2,175 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/en/en/blog/</loc>
+    <loc>http://localhost:1313/en/about/</loc>
     <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/</loc>
-    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="//localhost:1313/nl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="//localhost:1313/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="//localhost:1313/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="//localhost:1313/it/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="//localhost:1313/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/"
-                />
-  </url><url>
-    <loc>//localhost:1313/en/en/faq/</loc>
+    <loc>http://localhost:1313/en/blog/</loc>
     <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/en/how-it-works/</loc>
+    <loc>http://localhost:1313/en/country/</loc>
     <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/en/country/austria/</loc>
+    <loc>http://localhost:1313/en/service/requirements/</loc>
     <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/en/country/germany/</loc>
+    <loc>http://localhost:1313/en/faq/</loc>
     <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/en/country/poland/</loc>
+    <loc>http://localhost:1313/en/how-it-works/</loc>
     <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/en/jaeger-license-no-exam/</loc>
+    <loc>http://localhost:1313/en/service/how-we-work/</loc>
     <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/es/</loc>
-    <lastmod>2025-10-14T21:55:42+01:00</lastmod>
+    <loc>http://localhost:1313/en/country/austria/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/it/</loc>
-    <lastmod>2025-10-14T21:55:34+01:00</lastmod>
+    <loc>http://localhost:1313/en/country/germany/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/fr/</loc>
-    <lastmod>2025-10-14T21:55:26+01:00</lastmod>
+    <loc>http://localhost:1313/en/country/poland/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/de/</loc>
-    <lastmod>2025-10-14T21:55:14+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="//localhost:1313/de/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/en/de/"
-                />
+    <loc>http://localhost:1313/en/hunting-license-no-exam/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/pl/</loc>
-    <lastmod>2025-10-14T21:55:00+01:00</lastmod>
+    <loc>http://localhost:1313/en/jaeger-license-no-exam/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/nl/</loc>
-    <lastmod>2025-10-14T21:54:52+01:00</lastmod>
+    <loc>http://localhost:1313/en/legal/impressum/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/en/</loc>
+    <loc>http://localhost:1313/en/legal/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/service/pricing/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/legal/privacy/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/service/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/legal/terms/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/service/register-for-you/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/</loc>
     <lastmod>2025-10-14T21:54:33+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/categories/"
+                href="http://localhost:1313/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="//localhost:1313/nl/categories/"
+                href="http://localhost:1313/nl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="//localhost:1313/pl/categories/"
+                href="http://localhost:1313/pl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="//localhost:1313/fr/categories/"
+                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="//localhost:1313/it/categories/"
+                href="http://localhost:1313/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="//localhost:1313/es/categories/"
+                href="http://localhost:1313/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/categories/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/en/contact/</loc>
-  </url><url>
-    <loc>//localhost:1313/en/tags/</loc>
+    <loc>http://localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="//localhost:1313/de/tags/"
+                href="http://localhost:1313/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="//localhost:1313/nl/tags/"
+                href="http://localhost:1313/nl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="//localhost:1313/pl/tags/"
+                href="http://localhost:1313/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="//localhost:1313/fr/tags/"
+                href="http://localhost:1313/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="//localhost:1313/it/tags/"
+                href="http://localhost:1313/it/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="//localhost:1313/es/tags/"
+                href="http://localhost:1313/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/tags/"
+                href="http://localhost:1313/en/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/nl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="http://localhost:1313/pl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://localhost:1313/it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/"
                 />
   </url>
 </urlset>

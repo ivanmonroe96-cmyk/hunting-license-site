@@ -1,0 +1,8 @@
+{{- /* Minimal head partial with JSON-LD placeholder to be included in base templates */ -}}
+{{- $org := dict "@context" "https://schema.org" "@type" "Organization" "@id" (printf "%s#org" .Site.BaseURL) "name" .Site.Title "url" .Site.BaseURL "logo" (printf "%s%s" .Site.BaseURL "images/logo.png") -}}
+<script type="application/ld+json">{{ $org | jsonify }}</script>
+
+{{/* Per-page structured data placeholder: .Params.schema can contain page-specific JSON-LD */}}
+{{ with .Params.schema }}
+<script type="application/ld+json">{{ . | safeJS }}</script>
+{{ end }}

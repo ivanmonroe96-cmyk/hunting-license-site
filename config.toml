@@ -2,14 +2,17 @@
 # 🌍 SITE CONFIGURATION
 # ───────────────────────────────
 baseURL = "https://jagdschein-kaufen.com/"
-languageCode = "de"
-title = "Jagdschein Kaufen Ohne Prüfung | Hunting License Europe"
+languageCode = "en"
+title = "Hunting License Europe"
 theme = "ananke"
 enableRobotsTXT = true
-paginate = 10
 
-# ✅ Multilingual default setup (German is default)
-defaultContentLanguage = "de"
+# Pagination (updated for Hugo >=0.128)
+[pagination]
+  pagerSize = 10
+
+# Site is currently English-first; translations can be added later
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 
 # ───────────────────────────────
@@ -41,61 +44,13 @@ defaultContentLanguageInSubdir = true
 # ───────────────────────────────
 [languages]
 
-  [languages.de]
-    weight = 1
-    languageName = "Deutsch"
-    title = "Jagdschein Kaufen Ohne Prüfung"
-    contentDir = "content/de"
-    languageCode = "de"
-    params.description = "Wir helfen Bürgern in Deutschland, Österreich und Polen, einen Jagdschein legal und stressfrei zu erhalten."
-
   [languages.en]
-    weight = 2
+    weight = 1
     languageName = "English"
-    title = "Buy Hunting License Online"
+    title = "Hunting License Europe"
     contentDir = "content/en"
     languageCode = "en"
     params.description = "We help EU citizens get hunting licenses easily and legally across Europe."
-
-  [languages.nl]
-    weight = 3
-    languageName = "Nederlands"
-    title = "Jachtvergunning Kopen"
-    contentDir = "content/nl"
-    languageCode = "nl"
-    params.description = "Wij helpen burgers in Europa eenvoudig een jachtvergunning te verkrijgen."
-
-  [languages.pl]
-    weight = 4
-    languageName = "Polski"
-    title = "Licencja Łowiecka Bez Egzaminu"
-    contentDir = "content/pl"
-    languageCode = "pl"
-    params.description = "Pomagamy obywatelom w uzyskaniu legalnej licencji łowieckiej bez stresu."
-
-  [languages.fr]
-    weight = 5
-    languageName = "Français"
-    title = "Acheter un Permis de Chasse"
-    contentDir = "content/fr"
-    languageCode = "fr"
-    params.description = "Nous aidons les citoyens européens à obtenir un permis de chasse légalement et facilement."
-
-  [languages.it]
-    weight = 6
-    languageName = "Italiano"
-    title = "Acquista Licenza di Caccia"
-    contentDir = "content/it"
-    languageCode = "it"
-    params.description = "Aiutiamo i cittadini europei a ottenere una licenza di caccia legalmente e senza stress."
-
-  [languages.es]
-    weight = 7
-    languageName = "Español"
-    title = "Comprar Licencia de Caza"
-    contentDir = "content/es"
-    languageCode = "es"
-    params.description = "Ayudamos a los ciudadanos europeos a obtener una licencia de caza legalmente y sin complicaciones."
 
 
 # ───────────────────────────────

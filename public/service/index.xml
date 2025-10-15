@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Hunting License Europe</title>
+    <link>http://localhost:1313/service/</link>
+    <description>Recent content in Services on Hunting License Europe</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Documents &amp; Requirements</title>
+      <link>http://localhost:1313/service/requirements/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/service/requirements/</guid>
+      <description>&lt;h1 id=&#34;documents--requirements&#34;&gt;Documents &amp;amp; Requirements&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Passport/ID&lt;/li&gt;&#xA;&lt;li&gt;Medical certificate (country-specific)&lt;/li&gt;&#xA;&lt;li&gt;Proof of residency&lt;/li&gt;&#xA;&lt;li&gt;Passport photo&lt;/li&gt;&#xA;&lt;li&gt;Other local requirements&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>How We Work — Step-by-Step Service</title>
+      <link>http://localhost:1313/service/how-we-work/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/service/how-we-work/</guid>
+      <description>&lt;h1 id=&#34;how-we-work&#34;&gt;How We Work&lt;/h1&gt;&#xA;&lt;p&gt;We handle every step for you:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Initial contact &amp;amp; document check&lt;/li&gt;&#xA;&lt;li&gt;Registration with approved school&lt;/li&gt;&#xA;&lt;li&gt;Document management&lt;/li&gt;&#xA;&lt;li&gt;Exam preparation&lt;/li&gt;&#xA;&lt;li&gt;Exam booking &amp;amp; support&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;Legal, transparent, and easy.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pricing &amp; Packages</title>
+      <link>http://localhost:1313/service/pricing/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/service/pricing/</guid>
+      <description>&lt;h1 id=&#34;pricing--packages&#34;&gt;Pricing &amp;amp; Packages&lt;/h1&gt;&#xA;&lt;p&gt;We offer clear, upfront pricing. Contact us for a custom quote based on your country and needs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>We Register For You</title>
+      <link>http://localhost:1313/service/register-for-you/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/service/register-for-you/</guid>
+      <description>&lt;h1 id=&#34;we-register-for-you&#34;&gt;We Register For You&lt;/h1&gt;&#xA;&lt;p&gt;We select the best school for your needs, handle all paperwork, and ensure your registration is complete and legal.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

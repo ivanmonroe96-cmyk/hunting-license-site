@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Comprar licencia de caza</title>
-    <link>//localhost:1313/es/tags/</link>
-    <description>Recent content in Tags on Comprar licencia de caza</description>
+    <title>Tags on Comprar Licencia de Caza</title>
+    <link>http://localhost:1313/es/tags/</link>
+    <description>Recent content in Tags on Comprar Licencia de Caza</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <atom:link href="//localhost:1313/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/es/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

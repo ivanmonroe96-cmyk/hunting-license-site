@@ -7,24 +7,7 @@ lastmod: 2025-10-15
 languages: ["en"]
 ---
 
-<form action="https://formsubmit.co/YOUR_EMAIL" method="POST">
-  <input type="hidden" name="_subject" value="New Hunting License Inquiry">
-  <input type="hidden" name="_captcha" value="false">
-
-  <label>Full Name <input type="text" name="name" required></label>
-  <label>Email <input type="email" name="email" required></label>
-  <label>Country <select name="country">
-    <option value="DE">Germany</option>
-    <option value="PL">Poland</option>
-    <option value="AT">Austria</option>
-    <option value="Other">Other</option>
-  </select></label>
-  <label>Preferred Start Date <input type="date" name="start_date"></label>
-  <label>I want full service <input type="checkbox" name="full_service" value="yes" checked></label>
-  <label>I agree to the privacy policy <input type="checkbox" name="gdpr" required></label>
-  <textarea name="notes" placeholder="Additional info (e.g., physical limitations, language preferences)"></textarea>
-  <button type="submit">Send Inquiry</button>
-</form>
+{{< contact-form >}}
 
 **Email Templates:**
 
