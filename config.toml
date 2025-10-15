@@ -1,61 +1,112 @@
+# ───────────────────────────────
+# 🌍 SITE CONFIGURATION
+# ───────────────────────────────
 baseURL = "https://jagdschein-kaufen.com/"
-languageCode = "en"
-title = "Buy Hunting License Online"
+languageCode = "de"
+title = "Jagdschein Kaufen Ohne Prüfung | Hunting License Europe"
 theme = "ananke"
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
 enableRobotsTXT = true
+paginate = 10
 
+# ✅ Multilingual default setup (German is default)
+defaultContentLanguage = "de"
+defaultContentLanguageInSubdir = true
+
+# ───────────────────────────────
+# 🔗 MAIN MENU
+# ───────────────────────────────
 [menu]
+
   [[menu.main]]
     identifier = "apply"
-    name = "Apply"
+    name = "Anmelden"
     url = "/apply/"
     weight = 1
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "Über uns"
     url = "/about/"
     weight = 2
 
   [[menu.main]]
     identifier = "contact"
-    name = "Contact"
+    name = "Kontakt"
     url = "/contact/"
     weight = 3
 
 
+# ───────────────────────────────
+# 🌐 MULTILINGUAL CONFIGURATION
+# ───────────────────────────────
 [languages]
-[languages.en]
-  weight = 1
-  languageName = "English"
-  title = "Buy Hunting Permit"
-[languages.de]
-  weight = 2
-  languageName = "Deutsch"
-  title = "Jagdschein Kaufen"
-[languages.nl]
-  weight = 3
-  languageName = "Dutch"
-  title = "Jachtvergunning Kopen"
-[languages.pl]
-  weight = 4
-  languageName = "Polski"
-  title = "Licencja Łowiecka"
-[languages.fr]
-  weight = 5
-  languageName = "Français"
-  title = "Acheter un permis de chasse"
-[languages.it]
-  weight = 6
-  languageName = "Italiano"
-  title = "Acquista licenza di caccia"
-[languages.es]
-  weight = 7
-  languageName = "Español"
-  title = "Comprar licencia de caza"
 
+  [languages.de]
+    weight = 1
+    languageName = "Deutsch"
+    title = "Jagdschein Kaufen Ohne Prüfung"
+    contentDir = "content/de"
+    languageCode = "de"
+    params.description = "Wir helfen Bürgern in Deutschland, Österreich und Polen, einen Jagdschein legal und stressfrei zu erhalten."
+
+  [languages.en]
+    weight = 2
+    languageName = "English"
+    title = "Buy Hunting License Online"
+    contentDir = "content/en"
+    languageCode = "en"
+    params.description = "We help EU citizens get hunting licenses easily and legally across Europe."
+
+  [languages.nl]
+    weight = 3
+    languageName = "Nederlands"
+    title = "Jachtvergunning Kopen"
+    contentDir = "content/nl"
+    languageCode = "nl"
+    params.description = "Wij helpen burgers in Europa eenvoudig een jachtvergunning te verkrijgen."
+
+  [languages.pl]
+    weight = 4
+    languageName = "Polski"
+    title = "Licencja Łowiecka Bez Egzaminu"
+    contentDir = "content/pl"
+    languageCode = "pl"
+    params.description = "Pomagamy obywatelom w uzyskaniu legalnej licencji łowieckiej bez stresu."
+
+  [languages.fr]
+    weight = 5
+    languageName = "Français"
+    title = "Acheter un Permis de Chasse"
+    contentDir = "content/fr"
+    languageCode = "fr"
+    params.description = "Nous aidons les citoyens européens à obtenir un permis de chasse légalement et facilement."
+
+  [languages.it]
+    weight = 6
+    languageName = "Italiano"
+    title = "Acquista Licenza di Caccia"
+    contentDir = "content/it"
+    languageCode = "it"
+    params.description = "Aiutiamo i cittadini europei a ottenere una licenza di caccia legalmente e senza stress."
+
+  [languages.es]
+    weight = 7
+    languageName = "Español"
+    title = "Comprar Licencia de Caza"
+    contentDir = "content/es"
+    languageCode = "es"
+    params.description = "Ayudamos a los ciudadanos europeos a obtener una licencia de caza legalmente y sin complicaciones."
+
+
+# ───────────────────────────────
+# ⚙️ GLOBAL SITE PARAMETERS
+# ───────────────────────────────
 [params]
-  description = "We help EU citizens get hunting licenses without writing exams across Europe."
-
+  author = "Jagdschein Kaufen Team"
+  description = "Wir helfen EU-Bürgern, legal und stressfrei einen Jagdschein zu erhalten."
+  keywords = ["Jagdschein kaufen ohne Prüfung", "Jagdprüfung", "Hunting License Europe", "Jagdschein Österreich", "Jagdschein Polen"]
+  dateFormat = "02. January 2006"
+  showLanguageSelector = true
+  showShareButtons = true
+  enableComments = false
+  enableGoogleAnalytics = false
