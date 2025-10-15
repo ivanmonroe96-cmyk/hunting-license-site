@@ -2,11 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>En on Buy Hunting Permit</title>
-    <link>http://localhost:1313/en/en/</link>
+    <link>//localhost:1313/en/en/</link>
     <description>Recent content in En on Buy Hunting Permit</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/en/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/en/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frequently Asked Questions — Hunting License</title>
+      <link>//localhost:1313/en/en/faq/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/en/faq/</guid>
+      <description>&lt;h1 id=&#34;frequently-asked-questions&#34;&gt;Frequently Asked Questions&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Can I get a hunting license without an exam?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Short answer: No. In the EU, a legal hunting license requires exams and official requirements.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;How can you help me?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;We handle registration, documents, and exam prep; you only need to attend the exam.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;What documents do I need?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Passport/ID, medical certificate (country-specific), proof of residency, passport photo (examples per country).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;How long does the process take?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Varies by country; typically 2–6 months from registration to license in most regions.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Is this legal?&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How It Works — Your Effortless Hunting License Application</title>
+      <link>//localhost:1313/en/en/how-it-works/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/en/how-it-works/</guid>
+      <description>&lt;h1 id=&#34;how-it-works&#34;&gt;How It Works&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Our step-by-step service (summary):&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Initial contact &amp;amp; document check&lt;/strong&gt; — You send us your ID and required documents; we review and note any missing items.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Registration with a suitable hunting school&lt;/strong&gt; — We select an approved school in your area or country and register you.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Document management&lt;/strong&gt; — We fill out forms, translate if needed, and upload everything to the school.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Exam preparation&lt;/strong&gt; — We provide study materials and sample questions; optional: 1-on-1 tutoring.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Exam date &amp;amp; follow-up&lt;/strong&gt; — We book your exam and support you administratively until you receive your license.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;Important:&lt;/strong&gt; We work only legally and transparently. We do &lt;em&gt;not&lt;/em&gt; buy hunting licenses — we manage and simplify the legal registration and exam process.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hunting License in Austria — Registration &amp; Exam Service</title>
+      <link>//localhost:1313/en/en/country/austria/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/en/country/austria/</guid>
+      <description>&lt;h1 id=&#34;hunting-license-in-austria&#34;&gt;Hunting License in Austria&lt;/h1&gt;&#xA;&lt;p&gt;Legal registration, document management, and exam prep for your Austrian hunting license. We work with approved schools.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Local legal rules&lt;/li&gt;&#xA;&lt;li&gt;Exam length and requirements&lt;/li&gt;&#xA;&lt;li&gt;Regional tips&lt;/li&gt;&#xA;&lt;li&gt;Internal links to &lt;a href=&#34;//localhost:1313/en/en/how-it-works/&#34;&gt;How it works&lt;/a&gt; and &lt;a href=&#34;//localhost:1313/en/en/contact/&#34;&gt;Contact&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Hunting License in Germany — Registration &amp; Exam Service</title>
+      <link>//localhost:1313/en/en/country/germany/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/en/country/germany/</guid>
+      <description>&lt;h1 id=&#34;hunting-license-in-germany&#34;&gt;Hunting License in Germany&lt;/h1&gt;&#xA;&lt;p&gt;Legal registration, document management, and exam prep for your German hunting license. We work with approved schools in every Bundesland.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Local legal rules&lt;/li&gt;&#xA;&lt;li&gt;Exam length and requirements&lt;/li&gt;&#xA;&lt;li&gt;Regional tips&lt;/li&gt;&#xA;&lt;li&gt;Internal links to &lt;a href=&#34;//localhost:1313/en/en/how-it-works/&#34;&gt;How it works&lt;/a&gt; and &lt;a href=&#34;//localhost:1313/en/en/contact/&#34;&gt;Contact&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Hunting License in Poland — Registration &amp; Exam Service</title>
+      <link>//localhost:1313/en/en/country/poland/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/en/country/poland/</guid>
+      <description>&lt;h1 id=&#34;hunting-license-in-poland&#34;&gt;Hunting License in Poland&lt;/h1&gt;&#xA;&lt;p&gt;Legal registration, document management, and exam prep for your Polish hunting license. We work with approved schools.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Local legal rules&lt;/li&gt;&#xA;&lt;li&gt;Exam length and requirements&lt;/li&gt;&#xA;&lt;li&gt;Regional tips&lt;/li&gt;&#xA;&lt;li&gt;Internal links to &lt;a href=&#34;//localhost:1313/en/en/how-it-works/&#34;&gt;How it works&lt;/a&gt; and &lt;a href=&#34;//localhost:1313/en/en/contact/&#34;&gt;Contact&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Hunting License Without Exam: Myth or Legal Path?</title>
+      <link>//localhost:1313/en/en/jaeger-license-no-exam/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/en/jaeger-license-no-exam/</guid>
+      <description>&lt;h1 id=&#34;hunting-license-without-exam-myth-or-legal-path&#34;&gt;Hunting License Without Exam: Myth or Legal Path?&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Short answer:&lt;/strong&gt; A legal hunting license without an exam is not possible in the EU. There are, however, legal ways to streamline the process — and we help you every step of the way.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-a-hunting-license-without-exam-is-not-legal&#34;&gt;Why a hunting license without exam is not legal&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bullet points with citations to national laws (Bundesjagdgesetz, etc.)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;risks--legal-consequences&#34;&gt;Risks &amp;amp; Legal Consequences&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Criminal penalties, fines, revoked hunting privileges, fraud allegations.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;legal-alternatives-quick-overview&#34;&gt;Legal Alternatives (Quick Overview)&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;We register you with an approved hunting school (we handle all paperwork and registration).&lt;/li&gt;&#xA;&lt;li&gt;Intensive exam prep &amp;amp; booking.&lt;/li&gt;&#xA;&lt;li&gt;Recognition of foreign hunting licenses (where applicable).&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;how-we-work-tldr&#34;&gt;How We Work (TL;DR)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;We contact a certified school on your behalf&lt;/li&gt;&#xA;&lt;li&gt;We prepare and submit all required documents&lt;/li&gt;&#xA;&lt;li&gt;We book exam dates and assist with study materials&lt;/li&gt;&#xA;&lt;li&gt;You attend the exam and receive the license legally&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;frequently-asked-questions-faq&#34;&gt;Frequently Asked Questions (FAQ)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Short Q&amp;amp;A entries&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;cta&#34;&gt;CTA&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Interested?&lt;/strong&gt; &lt;a href=&#34;//localhost:1313/en/en/contact/&#34;&gt;Send an inquiry&lt;/a&gt; — We register you and handle everything.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/en/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/en/contact/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
   </channel>
 </rss>

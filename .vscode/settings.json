@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "config.toml": "toml",
+    "*.toml": "toml"
+  }
+}
